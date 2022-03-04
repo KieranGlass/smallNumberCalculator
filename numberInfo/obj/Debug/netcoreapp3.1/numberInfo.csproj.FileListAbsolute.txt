@@ -1,0 +1,13 @@
+/Users/Kieran/Projects/numberInfo/numberInfo/bin/Debug/netcoreapp3.1/numberInfo.deps.json
+/Users/Kieran/Projects/numberInfo/numberInfo/bin/Debug/netcoreapp3.1/numberInfo.runtimeconfig.json
+/Users/Kieran/Projects/numberInfo/numberInfo/bin/Debug/netcoreapp3.1/numberInfo.runtimeconfig.dev.json
+/Users/Kieran/Projects/numberInfo/numberInfo/bin/Debug/netcoreapp3.1/numberInfo.dll
+/Users/Kieran/Projects/numberInfo/numberInfo/bin/Debug/netcoreapp3.1/numberInfo.pdb
+/Users/Kieran/Projects/numberInfo/numberInfo/obj/Debug/netcoreapp3.1/numberInfo.csproj.AssemblyReference.cache
+/Users/Kieran/Projects/numberInfo/numberInfo/obj/Debug/netcoreapp3.1/numberInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kieran/Projects/numberInfo/numberInfo/obj/Debug/netcoreapp3.1/numberInfo.AssemblyInfoInputs.cache
+/Users/Kieran/Projects/numberInfo/numberInfo/obj/Debug/netcoreapp3.1/numberInfo.AssemblyInfo.cs
+/Users/Kieran/Projects/numberInfo/numberInfo/obj/Debug/netcoreapp3.1/numberInfo.csproj.CoreCompileInputs.cache
+/Users/Kieran/Projects/numberInfo/numberInfo/obj/Debug/netcoreapp3.1/numberInfo.dll
+/Users/Kieran/Projects/numberInfo/numberInfo/obj/Debug/netcoreapp3.1/numberInfo.pdb
+/Users/Kieran/Projects/numberInfo/numberInfo/obj/Debug/netcoreapp3.1/numberInfo.genruntimeconfig.cache
